@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: http://localhost:3000/sitemap.xml
+Sitemap: https://ajaythanki.github.io/darshan-industries-ghp2/sitemap.xml
 
 # Allow all major search engines
 User-agent: Googlebot
