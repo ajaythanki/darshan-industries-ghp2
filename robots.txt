@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://ajaythanki.github.io/darshan-industries-ghp2/sitemap.xml
+Sitemap: http://darshanrefractories.com/sitemap.xml
 
 # Allow all major search engines
 User-agent: Googlebot
