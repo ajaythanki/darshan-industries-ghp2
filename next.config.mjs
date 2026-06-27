@@ -7,7 +7,7 @@ const nextConfig = {
   },
   distDir: 'out',
   // Configure for GitHub Pages deployment
-  basePath: '/darshan-industries-ghp2',
+  basePath: '/',
   // Remove assetPrefix to fix public folder images
   experimental: {
     missingSuspenseWithCSRBailout: false,
