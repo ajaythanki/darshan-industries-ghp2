@@ -6,9 +6,7 @@ const nextConfig = {
     unoptimized: true,
   },
   distDir: 'out',
-  // Configure for GitHub Pages deployment
-  basePath: '/',
-  // Remove assetPrefix to fix public folder images
+  // Custom domain - no basePath needed
   experimental: {
     missingSuspenseWithCSRBailout: false,
   },
